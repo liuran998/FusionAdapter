@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ### Dataset
 
-We use WN9-IMG and FB-IMG to test our model. The orginal datasets and pretrain embeddings can be downloaded from [Lion ZS's repo]([https://github.com/Lion-ZS/OTKGE]). You can also download the zip files where we put the datasets and pretrain embeddings together in [Link](https://limewire.com/d/20c4e27e-b18c-41a6-9e65-82fdd65264af#aMoMXoOvTpM0RR2OlrAmLH4rxDr2RCiZbBHqqmEaJ7U).
+We use WN9-IMG and FB-IMG to test our model. The orginal datasets and pretrain embeddings can be downloaded from [Lion ZS's repo]([https://github.com/Lion-ZS/OTKGE]). You can also download the zip files where we put the datasets and pretrain embeddings together in [Link](https://www.dropbox.com/scl/fo/0a6776fmf6j2ga8g97i83/AAkqh13l6H4p32clNiKAUh4?rlkey=v9obvygssg50wj25f7hkbw9pg&st=je2eg4n2&dl=0).
 
 ### Quick Start for Training & Testing
 
